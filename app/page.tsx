@@ -12,18 +12,12 @@ import {
   Sparkles,
   ExternalLink,
   CheckCircle2,
-  Calendar,
   Layers,
   Code2,
-  Shield,
   Bot,
   Terminal,
   Cpu,
   GraduationCap,
-  Building2,
-  QrCode,
-  Zap,
-  ArrowRight,
   BookOpen,
   FileText,
   Clock,
@@ -31,7 +25,6 @@ import {
   Languages,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
 
 export default function PortfolioPage() {
   const [selectedFilter, setSelectedFilter] = useState<'all' | 'flagship' | 'campus' | 'automation'>('all');

@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { LucideIcon, ArrowRight, ExternalLink, Sparkles, Award, Code, CheckCircle2 } from 'lucide-react';
+import { LucideIcon, ArrowRight, ExternalLink, Sparkles, Award, CheckCircle2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 
